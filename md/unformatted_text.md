@@ -42,5 +42,5 @@ A segurança cibernética é uma responsabilidade partilhada. Ao adotar prática
 
 Recursos Adicionais
 
-https://www.exemplo.com/dicas-seguranca-online
+https://www.exemplo.com/dicas-seguranca-online  
 https://www.exemplo.com/recursos-ciberseguranca
