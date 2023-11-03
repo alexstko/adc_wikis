@@ -10,6 +10,7 @@ Para o exemplo de formatação de texto com markdown devem:
 - Depois devem copiar o texto não-formatado, que está no ficheiro unformatted_text.md, para o vosso ficheiro e fazer um `commit` do ficheiro no estado inicial.
 - De seguida devem aplicar as formatações em markdown necessárias para o vosso texto apresentar o seguinte aspeto:
   
+Dica: [Lista de EMOJICODES](https://github.com/markdown-templates/markdown-emojis)
 
 Para trabalhar com Markdown em VS Code devem instalar as seguintes extensões:
 
