@@ -8,7 +8,7 @@ Para consultar a Wiki:
 Para o exemplo de formatação de texto com markdown devem:
 - criar no diretorio `/md` um ficheiro com a vossa conta de aluno e a extensão `.md`.
 - Depois devem copiar o texto não-formatado, que está no ficheiro unformatted_text.md, para o vosso ficheiro e fazer um `commit` do ficheiro no estado inicial.
-- De seguida devem aplicar as formatações em markdown necessárias para o vosso texto apresentar o seguinte aspeto:
+- De seguida devem aplicar as formatações em markdown necessárias para o vosso texto apresentar o aspeto que está no ficheiro [Formatted Text](/md/formatted_text.pdf)
   
 Dica: [Lista de EMOJICODES](https://github.com/markdown-templates/markdown-emojis)
 
